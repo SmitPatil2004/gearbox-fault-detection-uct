@@ -1,0 +1,4 @@
+Feature set,Features,Accuracy
+All 20 features,20,1.0
+Sensor a1 only,5,0.9832
+Without a1,15,0.9159

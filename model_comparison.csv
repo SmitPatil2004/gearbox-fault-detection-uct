@@ -1,0 +1,4 @@
+Model,CV Accuracy,Std Dev
+Logistic Regression,1.0,0.0
+Random Forest,0.9975,0.0027
+Decision Tree,0.9806,0.0069
